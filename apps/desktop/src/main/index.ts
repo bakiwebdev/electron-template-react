@@ -1,6 +1,7 @@
 import path from "path";
 import { BrowserWindow, app } from "electron";
-import { getGreetService } from "@/main/services";
+// import { getGreetService } from "@/main/services";
+import { getGreetService } from "./services";
 
 /**
  * Initialize custom global variables

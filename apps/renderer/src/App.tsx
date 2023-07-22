@@ -6,7 +6,7 @@ export const App: React.FC = () => {
   window.IPC.helloWorld();
   return (
     <div className="bg-@project-primary flex justify-center items-center h-screen flex-col gap-5">
-      <h1>Electron Template</h1>
+      <h1>Electron Template my ass</h1>
       <Button onClick={() => alert("Hello")}>Greet</Button>
     </div>
   );
